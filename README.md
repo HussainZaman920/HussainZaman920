@@ -5,13 +5,13 @@
 
 <br />
 
-<!-- GitHub Stats & Top Languages -->
+<!-- GitHub Stats & Top Languages (High-Uptime Mirror) -->
 <div align="center">
   <a href="https://github.com/HussainZaman920">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HussainZaman920&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Hussain's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HussainZaman920&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Hussain's GitHub Stats" />
   </a>
   <a href="https://github.com/HussainZaman920">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HussainZaman920&layout=compact&theme=tokyonight&hide=sql&hide_border=true&count_private=true" alt="Top Languages (Python, C/C++)" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HussainZaman920&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
   </a>
 </div>
 
@@ -25,8 +25,8 @@
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/AI_Agent-%235B5B5B.svg?style=flat&logo=brain&logoColor=white" alt="AI Agent (Brain)" />
-  <img src="https://img.shields.io/badge/Hardware--Software_Stitching-%230071C5.svg?style=flat&logo=intel&logoColor=white" alt="Hardware-Software Stitching (Schematic)" />
+  <img src="https://img.shields.io/badge/AI_Agents-%235B5B5B.svg?style=flat&logo=openai&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Hardware--Software_Stitching-%230071C5.svg?style=flat&logo=intel&logoColor=white" alt="Hardware-Software Stitching" />
 </div>
 
 <br />
@@ -40,18 +40,13 @@
 
 <br />
 
-### 📫 Contact & Connections
+### 📫 How to reach me
 
-- 📫 **How to reach me:** LinkedIn | Email
-
-<br />
-
-<!-- Clickable Badges -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/hussain-zaman-920" target="_blank">
+<p align="left">
+  <a href="https://www.linkedin.com/in/zaman-hussain-80b0543bb" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:hussainzaman920@gmail.com" target="_blank">
+  <a href="mailto:hussainzaman920@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
+</p>
