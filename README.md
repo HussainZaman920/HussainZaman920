@@ -93,7 +93,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/workflow.svg" alt="Workflow: Raw Data, Standardize, Visual Analytics, Pattern Extraction, Model and Optimize, Deliver Insights" width="100%" />
+  <img src="workflow.svg" alt="Workflow: Raw Data, Standardize, Visual Analytics, Pattern Extraction, Model and Optimize, Deliver Insights" width="100%" />
 </div>
 
 <br />
@@ -104,7 +104,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/skill-map.svg" alt="Skill map: Programming, Machine Learning, Data Science, Computer Science" width="100%" />
+  <img src="skill-map.svg" alt="Skill map: Programming, Machine Learning, Data Science, Computer Science" width="100%" />
 </div>
 
 <br />
@@ -128,6 +128,15 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+<!-- ===================== SNAKE ANIMATION ===================== -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HussainZaman920/HussainZaman920/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HussainZaman920/HussainZaman920/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/HussainZaman920/HussainZaman920/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
 
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
